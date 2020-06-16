@@ -10,4 +10,4 @@
 
 # Step 3 - [Writing your first app part-3](https://github.com/baljeetjangra/django-docs/tree/68978937d404cd90778c9b2b730304811993e19b)
 
-# Step 4 - [Writing your first app part-4](https://github.com/baljeetjangra/django-docs/tree/463f6992b1be3807ea9146048303e3a86e0a7e70)
+# Step 4 - [Writing your first app part-4](https://github.com/baljeetjangra/django-docs/tree/73c99fff60793ddde239201013a0914fc52a1cd8)
